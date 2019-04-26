@@ -76,8 +76,11 @@ Belangrijk in begin:
 Community building
 
                     Een intro-activiteit en community building stimuleert het rekening houden met elkaar.
+
 Het samen leren gaat makkelijker als je elkaar kent.
+
                     bron: A4'tje 'Open ICT Labs (OIL)'
+
                         Docent is verbinder tussen studenten. 
 
  Als dat contact eenmaal op gang is gebracht,
@@ -86,31 +89,44 @@ Het samen leren gaat makkelijker als je elkaar kent.
                         De indeling van de OIL begint interactief maar wordt steeds rustiger.
                 Elke student een whiteboard-marker!
 
- +verhaal:
-
- Een probleem oplossen gebeurt niet in een laptop maar eerst op papier of whiteboard.
+Een probleem oplossen gebeurt niet in een laptop maar eerst op papier of whiteboard.
             Mogelijke opgaven
 
- (eerst flowchart?)
+(eerst flowchart?)
+
                 idee
+
                     De opdracht zelf aanbieden in vorm van flow chart? 
+
                 opg
+
                     renteberekening
+
                         Gegeven een startsaldo (bijvoorbeeld 234 euro), een rentepercentage en een aantal (zeg n) jaren. Maak een programma dat berekent hoeveel het saldo na 'n' jaar is.
+
                     deelbaarheid
+
                         Maak een algoritme dat het kleinste getal bepaalt dat groter is dan een gegeven waarde (de 'threshhold') en dat deelbaar is door een te geven 'deler'.
 
  Bijvoorbeeld: het kleinste getal groter dan 1000 dat deelbaar is door 37.
+
                     priem1
+
                         Maak een programma dat van een getal bepaalt of het een priemgetal is.
+
                     priem2
+
                         Maak een programma dat alle priemgetallen tussen 1000 en 2000 opsomt. 
 
  Maak de bovengenoemde onder- en bovengrens (1000 en 2000) instelbaar.
+
                     flash card
+
                         Een flash card programma is een programma dat jou helpt bij
 (bijvoorbeeld) het leren van Engelse woordjes.
+
                     Stamboom
+
                         Gegeven een stukje stamboom. Van de personen in de stamboom is gegeven of ze mannelijk danwel vrouwelijk zijn en verder wie hun (biologische) vader en moeder zijn.
 
  - Verzin een manier om dit op te slaan.
