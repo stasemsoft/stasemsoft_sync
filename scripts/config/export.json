@@ -4,7 +4,7 @@
 		"enabled": true,
 		"courses": [
 		{
-			"path": "SOFT",
+			"path": "software",
 			"ids": [8315],
 			"enabled": true
 		}],
