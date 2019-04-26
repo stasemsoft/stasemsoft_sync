@@ -1,58 +1,81 @@
-Orientatie <../OneDrive%20-%20Office%20365%20Fontys/mindjet/S1.OE1_weekvulling_S_orientatie.mm>
+Orientatie
+
     Vooraf
+
         De week-indeling gaat nog verdwijnen uit dit overzicht!
         De indeling is nog heavily 'under construction'
         Het plan is dat elke student een whiteboardstift krijgt. Ontwerpen die ze moeten maken zoals een flow chart of een class diagram moeten als foto van een whiteboard in geleverd worden (alternatief: foto van papier).
+
     Vooraf: liefst Visual Studio (code?) werkend.
+
         als 'voor-huiswerk'
         studenten die het niet in orde hebben kunnen het gedurende die dag doen.
         Consequentie als ze het niet hebben?
         VS Code voor Mac?
+
     orientatie
+
         Voor 'orientatie' op Software ga je werken aan een antwoord op een Vraag. Om die vraag te beantwoorden ga je kijken naar een aantal deelvragen.
 
  Hieronder vind je een aantal mogelijke deelvragen, maar denk vooral zelf na over je eigen vragen.
+
         Hoofdvraag: Wat zijn de basisconstructies
 
   van programmeren en hoe zien deze eruit in C#?
+
         Een aantal mogelijke deelvragen
+
             Wat is een project in programmeertermen?
+
                 solution?
+
                 VS-specifiek?
+
             Wat is een statement?
+
             Wat is een conditioneel statement en waarvoor gebruik ik het?
+
             Wat is een herhalingsstructuur/loop, welke zijn er (in C#).
+
             Wat is een methode, hoe werk ik met returnwaarde en hoe kan ik parameters gebruiken?
+
             Wat kan ik met Collecties/Collections (met name List en Array in C#)?
+
         Enkele onderwerpen die je daarbij nodig hebt
+
             variabelen / variables
+
             Types zoals int, Double, Boolean.
+
             Type conversie/conversion
+
                 Convert.ToString()
+
         Wat (nog) niet?
+
             Je hoeft voor de orientatie nog niet naar classes en objecten te kijken. 
+
     wk
+
         Iedereen een whiteboard-marker!
+
         Onderzoekstaak: Wat zijn de basisconstructies
 
   van programmeren en hoe zien deze eruit in C#?
+
             onderbouwing
+
                 Aantal concrete opdrachten die 'algoritmisch' al wat inhoud hebben.
+
                 Iedereen krijgt whiteboard-stift en gaat 'problemen oplossen'.
+
                 Basisconstructies programmeren meteen in eerste week vanwege overlap S en T.
-                (idee, nu op reserve)
-                    Scratch-idee
-                        Een student die nog nooit heeft geprogrammeerd kan dit in scratch doen.
-                        Waarom scratch?
-                            Scratch als Ontwerptool.
-                            Structuur is hetzelfde!
-                            Geen compilermeldingen.
-                OIL:
 
- Belangrijk in begin:
+Belangrijk in begin:
 
- Community building
-                    Een intro-activiteit en communiity building stimuleert het rekening houden met elkaar.
+Community building
+
+                    Een intro-activiteit en community building stimuleert het rekening houden met elkaar.
 Het samen leren gaat makkelijker als je elkaar kent.
                     bron: A4'tje 'Open ICT Labs (OIL)'
                         Docent is verbinder tussen studenten. 
