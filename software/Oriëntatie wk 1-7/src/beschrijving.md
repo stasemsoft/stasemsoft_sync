@@ -1,27 +1,31 @@
-Oriëntatie
+# Oriëntatie Software
 
-    Vooraf
+## Planning
+De eerste les is een gezamenlijke aftrap, waarbij je kennis maakt met de docent en je gezamenlijk kort de inhoud van de course bekijkt. Daarna gaat iedereen in zijn eigen tempo door de course heen. Wel zijn er enkele 'vaste punten' in de planning: momenten waarop iedereen met hetzelfde bezig is., ongeacht van hoever jij bent op dat moment.  
 
-        De week-indeling gaat nog verdwijnen uit dit overzicht!
-        De indeling is nog heavily 'under construction'
-        Het plan is dat elke student een whiteboardstift krijgt. Ontwerpen die ze moeten maken zoals een flow chart of een class diagram moeten als foto van een whiteboard in geleverd worden (alternatief: foto van papier).
+### Oriëntatie versus Verdieping
 
-    Vooraf: liefst Visual Studio (code?) werkend.
+Grofweg
 
-        als 'voor-huiswerk'
-        studenten die het niet in orde hebben kunnen het gedurende die dag doen.
-        Consequentie als ze het niet hebben?
-        VS Code voor Mac?
+De eerste weken staan in het teken van oriëntatie. Er wordt gekeken naar de basis van programmeren.
 
-    orientatie
+### Vaste planning
 
-        Voor 'orientatie' op Software ga je werken aan een antwoord op een Vraag. Om die vraag te beantwoorden ga je kijken naar een aantal deelvragen.
 
- Hieronder vind je een aantal mogelijke deelvragen, maar denk vooral zelf na over je eigen vragen.
+## Oriëntatie op het Software-profiel
 
-        Hoofdvraag: Wat zijn de basisconstructies
 
-  van programmeren en hoe zien deze eruit in C#?
+
+Voor 'orientatie' op Software ga je werken aan een antwoord op een Vraag, de Hoofdvraag:
+
+Hoofdvraag: Wat zijn de basisconstructies van programmeren en hoe zien deze eruit in C#?
+
+
+
+Om die vraag te beantwoorden ga je kijken naar een aantal deelvragen.
+
+Hieronder vind je een aantal mogelijke deelvragen, maar denk vooral zelf na over je eigen vragen.
+
 
         Een aantal mogelijke deelvragen
 
