@@ -1,6 +1,7 @@
-# Welkom bij de Software Startsemester Course
+# Welkom bij de Software Startsemester Course voor Demand Based
 
-Deze course is bedoeld voor elke student in het startsemester van FHICT, de Fontys Hogeschool voor ICT.
+Deze course is bedoeld voor elke student in de Demand Based variant van het startsemester van FHICT,
+de Fontys Hogeschool voor ICT.
 
 ## Aanwezigheid
 Je professionele  aanwezigheid is vereist. Dat wil zeggen dat je er in principe op tijd bent en niet eerder weggaat. Als je er een keer niet bent, of pas later, of eerder weg moet: stuur een berichtje naar je docent met de reden waarom.
