@@ -45,11 +45,10 @@ Enkele onderwerpen die je bij het beantwoorden van deze vragen nodig hebt:
 Wat (nog) niet?
 - Je hoeft voor de orientatie nog niet naar classes en objecten te kijken. 
 
-    wk
 
-        Iedereen een whiteboard-marker!
 
-        Onderzoekstaak: Wat zijn de basisconstructies
+
+Onderzoekstaak: Wat zijn de basisconstructies
 
   van programmeren en hoe zien deze eruit in C#?
 
