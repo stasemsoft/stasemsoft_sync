@@ -1,63 +1,49 @@
 # Oriëntatie Software
 
 ## Planning
-De eerste les is een gezamenlijke aftrap, waarbij je kennis maakt met de docent en je gezamenlijk kort de inhoud van de course bekijkt. Daarna gaat iedereen in zijn eigen tempo door de course heen. Wel zijn er enkele 'vaste punten' in de planning: momenten waarop iedereen met hetzelfde bezig is., ongeacht van hoever jij bent op dat moment.  
+De eerste les is een gezamenlijke aftrap, waarbij je kennis maakt met de docent en je gezamenlijk kort de inhoud van de course bekijkt. Daarna gaat iedereen in zijn eigen tempo door de course heen. Wel zijn er enkele 'vaste punten' in de planning: momenten waarop iedereen met hetzelfde bezig is, ongeacht van hoever jij bent op dat moment.  
 
 ### Oriëntatie versus Verdieping
-
-Grofweg
-
 De eerste weken staan in het teken van oriëntatie. Er wordt gekeken naar de basis van programmeren.
+Zo gauw je je docent hebt overtuigd dat je de basis beheerst mag je aan de verdieping gaan werken.
 
-### Vaste planning
+### Vast gepland
 
+#### Kick off
+In de eerste week maak je kennis met je docent,
+vertelt hij/zij wat van je verwacht wordt en wat je van hem/haar kunt verwachten.
+
+#### Feedbackmomenten
+Niet voor iedereen op hetzelfde tijdstip gepland maar je moet regelmatig feedback vragen aan je docent.
+Je laat dan zien wat je gedaan hebt, docent geeft feedback, wordt in feedpulse vast gelegd,
+en je weet weer waar je mee verder kunt.
 
 ## Oriëntatie op het Software-profiel
-
-
-
 Voor 'orientatie' op Software ga je werken aan een antwoord op een Vraag, de Hoofdvraag:
 
-Hoofdvraag: Wat zijn de basisconstructies van programmeren en hoe zien deze eruit in C#?
+### Hoofdvraag: Wat zijn de basisconstructies van programmeren en hoe zien deze eruit in C#?
 
-
+De nadruk ligt op de concepten, niet op details van een bepaalde taal. Anderzijds gaan we wel concreet aan de slag met C#.
 
 Om die vraag te beantwoorden ga je kijken naar een aantal deelvragen.
 
 Hieronder vind je een aantal mogelijke deelvragen, maar denk vooral zelf na over je eigen vragen.
 
+Een aantal mogelijke deelvragen
+- Wat is een project in programmeertermen?
+- Wat is een statement?
+- Wat is een conditioneel statement en waarvoor gebruik ik het?
+- Wat is een herhalingsstructuur/loop, welke zijn er (in C#), en waarvoor gebruik ik die?
+- Wat is een methode, hoe werk ik met returnwaarde en hoe kan ik parameters gebruiken?
+- Wat kan ik met Collecties/Collections (met name List en Array in C#)?
 
-        Een aantal mogelijke deelvragen
+Enkele onderwerpen die je bij het beantwoorden van deze vragen nodig hebt:
+- variabelen / variables
+- Types zoals int, Double, Boolean.
+- Type conversie/conversion (zoals Convert.ToString())
 
-            Wat is een project in programmeertermen?
-
-                solution?
-
-                VS-specifiek?
-
-            Wat is een statement?
-
-            Wat is een conditioneel statement en waarvoor gebruik ik het?
-
-            Wat is een herhalingsstructuur/loop, welke zijn er (in C#).
-
-            Wat is een methode, hoe werk ik met returnwaarde en hoe kan ik parameters gebruiken?
-
-            Wat kan ik met Collecties/Collections (met name List en Array in C#)?
-
-        Enkele onderwerpen die je daarbij nodig hebt
-
-            variabelen / variables
-
-            Types zoals int, Double, Boolean.
-
-            Type conversie/conversion
-
-                Convert.ToString()
-
-        Wat (nog) niet?
-
-            Je hoeft voor de orientatie nog niet naar classes en objecten te kijken. 
+Wat (nog) niet?
+- Je hoeft voor de orientatie nog niet naar classes en objecten te kijken. 
 
     wk
 
