@@ -7,7 +7,7 @@ De eerste les is een gezamenlijke aftrap, waarbij je kennis maakt met de docent 
 De eerste weken staan in het teken van oriëntatie. Er wordt gekeken naar de basis van programmeren.
 Zo gauw je je docent hebt overtuigd dat je de basis beheerst mag je aan de verdieping gaan werken.
 
-### Vast gepland
+### Op vast moment gepland
 
 #### Kick off
 In de eerste week maak je kennis met je docent,
@@ -27,9 +27,12 @@ De nadruk ligt op de concepten, niet op details van een bepaalde taal. Anderzijd
 
 Om die vraag te beantwoorden ga je kijken naar een aantal deelvragen.
 
-Hieronder vind je een aantal mogelijke deelvragen, maar denk vooral zelf na over je eigen vragen.
+### (Een aantal mogelijke) deelvragen
 
-Een aantal mogelijke deelvragen
+Je docenten kunnen je helpen bij het zoeken naar antwoorden op de deelvragen. Je zit nu aan het begin van je studie en daarom helpen we je met het verzinnen van de deelvragen en hebben we ook nog materiaal dat helpt bij het beantwoorden. Als je de studie af hebt kun je zelf deze vragen bedenken, en ook bedenken hoe je ze kunt beantwoorden.
+
+Hieronder vind je een aantal mogelijke deelvragen, maar denk dus zelf ook na over je eigen deelvragen.
+
 - Wat is een project in programmeertermen?
 - Wat is een statement?
 - Wat is een conditioneel statement en waarvoor gebruik ik het?
@@ -37,46 +40,19 @@ Een aantal mogelijke deelvragen
 - Wat is een methode, hoe werk ik met returnwaarde en hoe kan ik parameters gebruiken?
 - Wat kan ik met Collecties/Collections (met name List en Array in C#)?
 
-Enkele onderwerpen die je bij het beantwoorden van deze vragen nodig hebt:
+Enkele onderwerpen die je bij het beantwoorden van deze vragen zeker ook nodig hebt:
 - variabelen / variables
 - Types zoals int, Double, Boolean.
 - Type conversie/conversion (zoals Convert.ToString())
 
 Wat (nog) niet?
-- Je hoeft voor de orientatie nog niet naar classes en objecten te kijken. 
+- Je hoeft voor de oriëntatie nog niet naar classes en objecten te kijken. 
 
-
-
-
-Onderzoekstaak: Wat zijn de basisconstructies
-
-  van programmeren en hoe zien deze eruit in C#?
-
-            onderbouwing
-
-                Aantal concrete opdrachten die 'algoritmisch' al wat inhoud hebben.
-
-                Iedereen krijgt whiteboard-stift en gaat 'problemen oplossen'.
-
-                Basisconstructies programmeren meteen in eerste week vanwege overlap S en T.
-
-Belangrijk in begin:
-
-Community building
-
-                    Een intro-activiteit en community building stimuleert het rekening houden met elkaar.
+## Samen leren
+Als je iets wilt leren gaat dat deels het beste alleen, uit een boek, of door naar een docent of ervaren iemand te luisteren/kijken. Een groot deel (70% wordt wel eens genoemd) gaat het beste door er met 'collega-lerenden' over te overleggen en discussiëren en met de stof bezig te zijn.
 
 Het samen leren gaat makkelijker als je elkaar kent.
 
-                    bron: A4'tje 'Open ICT Labs (OIL)'
-
-                        Docent is verbinder tussen studenten. 
-
- Als dat contact eenmaal op gang is gebracht,
-
- weten ze elkaar vervolgens sneller te vinden.
-                        De indeling van de OIL begint interactief maar wordt steeds rustiger.
-                Elke student een whiteboard-marker!
 
 Een probleem oplossen gebeurt niet in een laptop maar eerst op papier of whiteboard.
             Mogelijke opgaven
