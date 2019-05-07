@@ -1,4 +1,4 @@
-# Whiteboardsessie
+# oriëntatie kick off Whiteboardsessie
 
 Iedereen een whiteboardstift!
 Ontwerpen die je maakt zoals een flow chart of een class diagram moeten als foto van een whiteboard in geleverd worden (alternatief: foto van papier).
@@ -19,7 +19,7 @@ flow chart/PSD)
 Een probleem oplossen gebeurt niet in een laptop maar eerst op papier of whiteboard.
 
 ## Mogelijke opgaven
-Hieronder staan opgaven waar je er een aantal uit kunt kiezen. 
+Hieronder staan opgaven waar je er een aantal uit kunt kiezen.
 
 Maak een flowchart om het probleem op te lossen.
 
