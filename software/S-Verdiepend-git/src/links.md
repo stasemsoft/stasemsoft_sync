@@ -1,6 +1,4 @@
 ## Weblinks
 
-### Pointers
-
-+ [x](http://manifesto.softwarecraftsmanship.org/)
-+ [y](https://stasemsoft.github.io/softwarelessons/)
+### Fontys git
++ [git.fhict.nl](https://git.fhict.nl/)
