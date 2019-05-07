@@ -37,6 +37,7 @@ Je ontwerpt een class diagram (met uitleg) waarin de belangrijkste functionalite
 Je vraagt feedback van een docent met software engineeringskennis en laat zien dat je deze feedback verwerkt hebt.
 
 Onderwerpen:
+
 - objects/ classes
 - constructors
 - encapsulation: private fields, get/set- methods en/of properties
