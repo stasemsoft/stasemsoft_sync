@@ -1,2 +1,5 @@
-# Optioneel: Versiebeheer met git
-Als je echt goed voorbebereid wilt zijn op het 2e semester bij Software dan is het goed al eens met 'git' te werken. Dit is niet verplicht.
+# Unit test
+Dit kun je nog even uitstellen als je het allemaal nog erg moeilijk vindt,
+maar voor een professional is dit erg belangrijk!
+
+Bouw een 'vangnet' aan geprogrammeerde tests op die je programma elke keer voor jou testen. 
