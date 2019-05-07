@@ -12,7 +12,8 @@ Zoals een wijs mens ooit zei: 'the Code is more what you'd call "guidelines" tha
 
 ## Mogelijke Planning voor mensen die nog niet kunnen programmeren
 
-### Week 1:
+### Week 1: VAST GEPLAND: Kick Off Whiteboardsessie
+
   van programmeren en hoe zien deze eruit in C#?
         onderbouwing
             Aantal concrete opdrachten die 'algoritmisch' al wat inhoud hebben.
