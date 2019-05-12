@@ -1,6 +1,11 @@
 #Oriëntatie ~ Product 1 ~ Flow Chart / Algoritmen
 
-Een algoritme 
+Als je software bouwt ontwerp je vaak een algoritme dat een probleem oplost.  
+Dit algoritme kun je op verschillende manieren beschrijven. Wij willen voor de oriëntatie dat je flow charts maakt. Schrijf deze op white board of op papier en lever een foto daarvan in.
+
+
+
+
 
 # 02. Kruisje Rondje-ish / Algoritmiek
 
