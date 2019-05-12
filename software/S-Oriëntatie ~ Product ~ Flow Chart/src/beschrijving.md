@@ -1,3 +1,7 @@
+#Oriëntatie ~ Product 1 ~ Flow Chart / Algoritmen
+
+Een algoritme 
+
 # 02. Kruisje Rondje-ish / Algoritmiek
 
 ## Alternatieven
