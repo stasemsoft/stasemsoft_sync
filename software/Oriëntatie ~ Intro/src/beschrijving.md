@@ -1,4 +1,4 @@
-# Orientatie ~ Intro
+# Oriëntatie ~ Intro Software Course
 Welkom bij de Software Startsemester Course voor Demand Based
 
 Deze course is bedoeld voor elke student in de Demand Based variant van het startsemester van FHICT,
