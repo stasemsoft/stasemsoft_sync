@@ -4,6 +4,8 @@ Iedereen een whiteboardstift!
 Ontwerpen die je maakt zoals een flow chart of een class diagram moeten als foto van een whiteboard in geleverd worden (alternatief: foto van papier).
 Dus NIET met een digitaal tool gemaakt!
 
+## Kun je tot 31 tellen op 1 hand?
+Typ 'count to 31 on one hand' in je favo zoekmachine.  
 
 ## Deelproduct die je hierbij maakt
 
