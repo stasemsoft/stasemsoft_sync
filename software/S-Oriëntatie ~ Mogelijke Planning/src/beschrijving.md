@@ -36,7 +36,6 @@ Zoals een wijs mens ooit zei (vrij vertaald): 'the Plannig is more what you'd ca
 ### week 4
 - Wat is een methode, hoe werk ik met returnwaarde en hoe kan ik parameters gebruiken?
 
-- KruisjeRondje realiseren in scratch ?
 
 ### week 5
 - Wat kan ik met Collecties/Collections (met name List en Array in C#)?
@@ -49,8 +48,7 @@ Parson's Puzzles?
 deelproduct
 
 ### week 7
-Test Plan & Report
-vgl. BugSweeper
+Test Plan & Report (vgl. BugSweeper) 
 
 
 ## 2. Planning voor mensen die al kunnen programmeren
