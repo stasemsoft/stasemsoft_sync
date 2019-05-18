@@ -1,7 +1,7 @@
 # Sneak preview
 De periode tussen de Design Challenge en de Verdiepende weken noemen we de Sneak Preview.
 
-Als alles volgens verwachting is gegaan heb je nu de oriëntatie (zo goed als) afgerond. Tijd om vooruit te kijken. In deze 2 weken nemen we een sneak preview op wat in de verdieping komen gaat met een CRC-workshop, maar we kijken eerst nog terug naar de Design Challenge van de afgelopen weken.
+Je oriëntatie is hopelijk (zo goed als) afgerond. Tijd om vooruit te kijken. In de sneak preview gaan we een CRC-workshop doen, maar we kijken eerst nog terug naar de Design Challenge van de afgelopen weken.
 
 
 ## Terugkijken
@@ -17,8 +17,8 @@ Je bepaalt of je wilt gaan verdiepen in Software
 Hoever je ook bent met oriënteren of verdiepen op software: we gaan op de S-dag met z'n allen een CRC-workshop doen.
 
 Zelfwerk:
+Sowieso (dus zelfs als je pas op vrijdag je S-docent ziet) kun je toch al eerder nuttig aan de slag voor S:
 Met Classes leren werken in C#.
-Zelfs als je pas op vrijdag je S-docent ziet kun je toch al eerder nuttig aan de slag voor S. 
 
 
 ## keuze voor de verdieping
