@@ -76,18 +76,11 @@ onzin om dan weer vooraf aan te beginnen! We willen je zo snel mogelijk met OOP 
 
 
 ### (mogelijk) week 3:
-
-### (mogelijk) week 4
 - Wat is een methode, hoe werk ik met returnwaarde en hoe kan ik parameters gebruiken?
-
-
-### (mogelijk) week 5
 - Wat kan ik met Collecties/Collections (met name List en Array in C#)?
 - Loops / herhaling
 - algo: project-Euler?
 - Test Plan & Report (vgl. BugSweeper)
-- Parson's Puzzles?
 
-### (mogelijk) week 6
-
-### week 7
+### (mogelijk) vanaf week 4
+- Na docent overtuigd te hebben door met S verdiepend!
