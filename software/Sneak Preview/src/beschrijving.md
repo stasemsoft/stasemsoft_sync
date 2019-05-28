@@ -13,8 +13,8 @@ Je krijgt informatie van je S-docent over hoe de rest van je studie er uit zou z
 Je bepaalt of je wilt gaan verdiepen in Software
 
 
-## Sneak preview op verdiepend deel
-Hoever je ook bent met oriënteren of verdiepen op software: we gaan op de S-dag met z'n allen een CRC-workshop doen.
+## Sneak preview op verdiepend deel: CRC en Classes.
+Hoever je ook bent met oriënteren of verdiepen op software: we gaan op de S-dag met z'n allen een CRC-workshop doen. Deze workshop helpt je om een CRC-model te maken voor je proftaak, wat onderdeel is van je (technisch) ontwerp/design. Informatie hierover vind je in de Toolbox.
 
 Zelfwerk:
 Sowieso (dus zelfs als je pas op vrijdag je S-docent ziet) kun je toch al eerder nuttig aan de slag voor S:
