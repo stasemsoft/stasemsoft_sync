@@ -1,6 +1,6 @@
-## Weblinks
+## CRC - Class Responsibility Collaboration
 
-### Pointers
-
-+ [x](http://manifesto.softwarecraftsmanship.org/)
-+ [y](https://stasemsoft.github.io/softwarelessons/)
++ [CRC](https://en.wikipedia.org/wiki/Class-responsibility-collaboration_card)
++ [Using CRC cards](https://www.youtube.com/watch?v=Bxgn6qJ-bYY)
++ [Example](https://www.youtube.com/watch?v=otKUer13HnA)
++ [CRC Cards](https://www.youtube.com/watch?v=19ULQDkEkd8)
