@@ -1,3 +1,1 @@
-# S Verdiepend Toolbox Diversen
-
 Er komen nu een paar tools bij, maar Whiteboard, Visual Studio en for-loopjes blijven belangrijk...
