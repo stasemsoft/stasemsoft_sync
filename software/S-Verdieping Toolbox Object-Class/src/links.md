@@ -1,5 +1,3 @@
-## Objects en Classes
-
 ### Object, Class, Constructor
 
 + [Theorie: Hoe programmeer je met Objecten](https://stasemsoft.github.io/softwarematerial/docs/objects/theorie_Class.pdf)
