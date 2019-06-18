@@ -1,3 +1,3 @@
 # Toolbox oriënterend
 
-Mogelijk lesmateriaal is hier te vinden. 
+Mogelijk lesmateriaal is hier te vinden.
