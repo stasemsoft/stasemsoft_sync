@@ -52,9 +52,3 @@
 + [Challenge FileHandling](https://stasemsoft.github.io/softwarematerial/docs/objects/challenges/challengeFileHandling.pdf)
 
 + [challenge Exception Handling](https://stasemsoft.github.io/softwarematerial/docs/objects/challenges/challengeExceptionHandling.pdf)
-
-
-
-
-+ [x](http://manifesto.softwarecraftsmanship.org/)
-+ [y](https://stasemsoft.github.io/softwarelessons/)
