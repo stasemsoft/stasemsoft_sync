@@ -1,5 +1,6 @@
 ### Object, Class, Constructor
 
+
 + [Theorie: Hoe programmeer je met Objecten](https://stasemsoft.github.io/softwarematerial/docs/objects/theorie_Class.pdf)
 
 + [Exercise ObjectOriented invuloefening](https://stasemsoft.github.io/softwarematerial/docs/objects/exerciseObjectOrientedOefening.pdf)
@@ -46,6 +47,8 @@
 ### Overige onderwerpen
 
 #### File Handling en Exception Handling
+
+Geen verplichte onderwerpen, maar wellicht handig om iets over te weten:
 
 + [Theorie File Handling](https://stasemsoft.github.io/softwarematerial/docs/objects/theorie_FileHandling.pdf)
 

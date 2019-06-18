@@ -3,6 +3,8 @@ Welkom bij de Software Course voor Startsemester.
 
 Deze course is bedoeld voor elke student in de Demand Based variant van het startsemester van Fontys Hogeschool voor ICT (FHICT).
 
+Opmerking over de hele canvas course: zie je 'hij' of 'zij', dan kan het allebei! Kies zelf wat je denkt: dat past bij mij.
+
 ## Aanwezigheid
 Je professionele  aanwezigheid is vereist. Dat wil zeggen dat je in principe op tijd bent en niet eerder weggaat. Als je er een keer niet bent, of pas later, of eerder weg moet, stuur je een berichtje naar je docent met de reden waarom.
 
@@ -24,6 +26,7 @@ In een CRC-workshop die de S-docent tijdens de Sneak Preview verzorgt, maak je m
 Software wordt voor het startsemester inhoudelijk in 2 delen of niveau's opgesplitst:  
 
 ### Oriënterend niveau
+
 Je moet je S-docent er sowieso van overtuigen dat je het oriënterend niveau hebt bereikt, ook al kies je een ander profiel.
 Je moet van alle vijf profielen het oriënterend niveau hebben aangetoond, anders kun je niet door naar het volgende semester.
 
@@ -31,78 +34,14 @@ Het oriënterend materiaal (canvas module: 'Materiaal voor Oriëntatie') kan ee
 
 Iedereen gaat in week 8 de Design Challenge in.
 
-De module 'Materiaal voor Verdieping' bevat het materiaal voor de studenten die zich willen verdiepen in Software. Als je
-
 
 ### Verdiepend niveau
-Het Verdiepend niveau moet je van minstens 1 profiel hebben gehaald! Je mag alleen naar semester 2 van een profiel als je het oriënterend niveau van alle profielen hebt aangetoond en het verdiepende niveau van minstens die richting waar je in verder wilt.
+
+Het Verdiepend niveau moet je van minstens 1 profiel hebben gehaald! Je mag alleen naar semester 2 van een profiel als je het oriënterend niveau van alle profielen hebt aangetoond en het verdiepende niveau van minstens die richting waar je in verder wilt. Als je het aankunt mág je in meerdere profielen verdiepen.
 
 
+### Feedbackmomenten
 
-## Leeswijzer
-Deze course is alsvolgt opgebouwd:
-
-De volgende modules geven de indeling in tijd aan:
-- Oriëntatie wk 1-7
-- Design Challenge wk 8-9
-- Sneak Preview wk 10-11
-- Verdieping wk 12-18
-
-Inhoudelijk materiaal is hier te vinden:
-- Materiaal voor Oriëntatie
-- Materiaal voor Verdieping
-
-# TODO: Oriëntatie Software - hieronder nog te verwerken!!!
-
-## Planning
-De eerste les is een gezamenlijke aftrap, waarbij je kennis maakt met de docent en je gezamenlijk kort de inhoud van de course bekijkt. Daarna gaat iedereen in zijn eigen tempo door de course heen. Wel zijn er enkele 'vaste punten' in de planning: momenten waarop iedereen met hetzelfde bezig is, ongeacht van hoever jij bent op dat moment.  
-
-### Oriëntatie versus Verdieping
-De eerste weken staan in het teken van oriëntatie. Er wordt gekeken naar de basis van programmeren.
-Zo gauw je je docent hebt overtuigd dat je de basis beheerst mag je aan de verdieping gaan werken.
-
-### Op vast moment gepland
-
-#### Kick off
-In de eerste week maak je kennis met je docent,
-vertelt hij/zij wat van je verwacht wordt en wat je van hem/haar kunt verwachten.
-
-#### Feedbackmomenten
-Niet voor iedereen op hetzelfde tijdstip gepland maar je moet regelmatig feedback vragen aan je docent.
-Je laat dan zien wat je gedaan hebt, docent geeft feedback, wordt in feedpulse vast gelegd,
+Je zult jouw docent moeten overtuigen dat je het vereiste niveau hebt. Hiertoe moet je regelmatig feedback vragen aan je docent.
+Je laat dan zien wat je gedaan hebt, docent geeft feedback, wordt in feedpulse vastgelegd,
 en je weet weer waar je mee verder kunt.
-
-## Oriëntatie op het Software-profiel
-Voor 'orientatie' op Software ga je werken aan een antwoord op een Vraag, de Hoofdvraag:
-
-### Hoofdvraag: Wat zijn de basisconstructies van programmeren en hoe zien deze eruit in C#?
-
-De nadruk ligt op de concepten, niet op details van een bepaalde taal. Anderzijds gaan we wel concreet aan de slag met C#.
-
-Om die vraag te beantwoorden ga je kijken naar een aantal deelvragen.
-
-### (Een aantal mogelijke) deelvragen
-
-Je docenten kunnen je helpen bij het zoeken naar antwoorden op de deelvragen. Je zit nu aan het begin van je studie en daarom helpen we je met het verzinnen van de deelvragen en hebben we ook nog materiaal dat helpt bij het beantwoorden. Als je de studie af hebt kun je zelf deze vragen bedenken, en ook bedenken hoe je ze kunt beantwoorden.
-
-Hieronder vind je een aantal mogelijke deelvragen, maar denk dus zelf ook na over je eigen deelvragen.
-
-- Wat is een project in programmeertermen?
-- Wat is een statement?
-- Wat is een conditioneel statement en waarvoor gebruik ik het?
-- Wat is een herhalingsstructuur/loop, welke zijn er (in C#), en waarvoor gebruik ik die?
-- Wat is een methode, hoe werk ik met returnwaarde en hoe kan ik parameters gebruiken?
-- Wat kan ik met Collecties/Collections (met name List en Array in C#)?
-
-Enkele onderwerpen die je bij het beantwoorden van deze vragen zeker ook nodig hebt:
-- variabelen / variables
-- Types zoals int, Double, Boolean.
-- Type conversie/conversion (zoals Convert.ToString())
-
-Wat (nog) niet?
-- Je hoeft voor de oriëntatie nog niet naar classes en objecten te kijken. 
-
-## Samen leren
-Als je iets wilt leren gaat dat deels het beste alleen, uit een boek, of door naar een docent of ervaren iemand te luisteren/kijken. Een groot deel (70% wordt wel eens genoemd) gaat het beste door er met 'collega-lerenden' over te overleggen en discussiëren en met de stof bezig te zijn.
-
-Het samen leren gaat makkelijker als je elkaar kent.
