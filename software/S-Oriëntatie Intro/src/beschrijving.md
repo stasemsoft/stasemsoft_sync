@@ -6,7 +6,7 @@ Deze course is bedoeld voor elke student in de Demand Based variant van het star
 Opmerking over de hele canvas course: zie je 'hij' of 'zij', dan kan het allebei! Kies zelf wat je denkt: dat past bij mij.
 
 ## Aanwezigheid
-Je professionele  aanwezigheid is vereist. Dat wil zeggen dat je in principe op tijd bent en niet eerder weggaat. Als je er een keer niet bent, of pas later, of eerder weg moet, stuur je een berichtje naar je docent met de reden waarom.
+De beoordeling is gebaseerd op zichtbaar gedrag tijdens de lessen, dus aanwezig zijn is wel belangrijk? Als je er een keer niet bent, of pas later, of eerder weg moet, is het verstandig een berichtje naar je docent te sturen met de reden waarom. 
 
 
 ## Planning
