@@ -1,0 +1,3 @@
+# Trigger only
+
+Deze dir is bedoeld om syncen met canvas uit te lokken door een pdf te plaatsen... 
