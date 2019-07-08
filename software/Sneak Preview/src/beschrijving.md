@@ -5,7 +5,7 @@ Je oriëntatie is hopelijk (zo goed als) afgerond. Tijd om vooruit te kijken. In
 
 
 ## Terugkijken
-Alle individuele projecten tot nu toe worden opgenomen in een Portfolio dat je nu gaat opstellen.
+Alle individuele projecten tot nu toe verzamel je.
 
 
 ## Profielkeuze-info en Verdiepingskeuze

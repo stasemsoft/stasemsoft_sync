@@ -7,4 +7,9 @@ De eerste lesdag is een gezamenlijke aftrap, waarbij je kennis maakt met de doce
 ## Samen leren
 Als je iets wilt leren gaat dat deels het beste alleen, uit een boek, of door naar een docent of ervaren iemand te luisteren/kijken. Een groot deel (70% wordt wel eens genoemd) gaat het beste door er met 'collega-lerenden' over te overleggen en discussiëren en met de stof bezig te zijn.
 
-Het samen leren gaat makkelijker als je elkaar kent.
+Het samen leren gaat makkelijker als je elkaar kent. Ieder heeft zijn sterke en minder sterke eigenschappen
+en een team werkt vaak het prettigste als er een goede mix van eigenschappen (van personen) bij elkaar komt.
+ICT is bovendien een enorm vakgebied, het is tegenwoordig niet mogelijk dat iemand alles weet en overal goed in is.
+
+
+## Welke vaardigheden heeft een succesvolle Software Engineer nodig? 

@@ -19,7 +19,7 @@ De focus van deze sprint ligt op Analyseren en (technisch) Designen, er wordt ma
 
 #### beroepsproduct
 - Ontwerpdocument: bevat CRC-model en/of class diagram
-- individueel portfolio: optioneel in git.
+- alle programmacode die je hebt geprogrammeerd: optioneel in git.
 
 
 
@@ -34,7 +34,7 @@ Leren: constructors en encapsulation.
 #### beroepsproduct
 - Ontwerpdocument nieuwe versie.
 - Bijlage met feedback en hoe deze verwerkt is.
-- Individueel portfolio (up to date).
+- Alle programmacode die je hebt geprogrammeerd (up to date).
 
 
 
@@ -47,6 +47,6 @@ De focus van deze sprint ligt op Realiseren. Er moet op het einde (bij voorkeur)
 
 
 #### beroepsproduct
-- Individueel portfolio (up to date).
+- alle programmacode die je hebt geprogrammeerd (up to date).
     wk17: indivudueel toetsing verdiepend niveau
 - Eindproduct Proftaak.
