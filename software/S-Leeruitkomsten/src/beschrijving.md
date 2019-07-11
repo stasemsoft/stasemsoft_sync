@@ -1,11 +1,7 @@
-#Informatie over Leeruitkomsten voor Software
-
-## Beschrijving Leeruitkomst Software
-
 Je ontwikkelt software applicaties met aandacht voor
 algoritmiek, waarmee je de basisvaardigheden van object oriented programmeren aantoont.
 
-## Toelichting Oriënterend niveau
+# Toelichting Oriënterend niveau
 
 Je past de volgende programmeer-concepten toe: Variables, conditional statements, loops, methods, lists/ arrays and enum’s.
 
@@ -20,13 +16,13 @@ Je vraagt feedback van een docent, noteert deze in feedpulse en laat zien dat je
 - method
 - leesbaarheid / onderhoudbaarheid
 
-### Aandacht voor algoritmiek
+## Aandacht voor algoritmiek
 Dit duidt op de benodigde ondersteuning van logische, mathematische en/of computational thinking aspecten. Je kunt een applicatie ontwikkelen middels een object oriented programmeertaal, zoals C#. Je kunt een eenvoudige object oriented applicatie ontwikkelen.
 
-### Basisvaardigheden van object oriented programmeren
+## Basisvaardigheden van object oriented programmeren
 Variables, conditional statements, loops, methods, objects/ classes, constructors, private fields/ encapsulation, get/ set- methods and/ or properties, method/ constructor overloading, class diagrams/ relations/ multiplicity, generic lists/ arrays and enum’s.
 
-## Toelichting Verdiepend niveau
+# Toelichting Verdiepend niveau
 
 Voor het verdiepend niveau geldt alles wat bij het oriënterende niveau gold met de volgende extra eisen:
 
