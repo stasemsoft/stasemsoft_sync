@@ -12,20 +12,18 @@ Maar ...
 ## 1. MOGELIJKE Planning voor mensen die nog niet kunnen programmeren
 
 ### Week 1: VAST GEPLAND: Kick Off Whiteboardsessie
-- Kennismaking met je Software-docent ofwel S-docent.
-- Zie module 'S-basis - kick off sessie' onder module 'Materiaal voor Orientatie': neem uw Whiteboardstift en wandel...
-- Hoofdvraag: Wat zijn de basisconstructies van programmeren?
-- Kruisje Rondje-ish
+- Zie de module verderop in deze canvas course over de Eerste Softwaredag: neem uw Whiteboardstift en wandel...
+- Kennismaking en Computational Thinking.
 
 
 ### (mogelijk) week 2:
+- Vraag: Wat zijn de basisconstructies van programmeren?
 - variabelen / variables
 - Types zoals int, Double, Boolean.
 - Type conversie/conversion (zoals Convert.ToString())
 - Wat is een project in programmeertermen?
 - Wat is een statement?
 - Wat is een conditioneel statement en waarvoor gebruik ik het?
-
 
 
 ### (mogelijk) week 3:
@@ -50,16 +48,14 @@ deelproduct
 Test Plan & Report (vgl. BugSweeper)
 
 
-## 2. Planning voor mensen die al kunnen programmeren
+## 2. MOGELIJKE Planning voor mensen die al kunnen programmeren
 
 Misschien heb je informatica gehad, misschien heb je al een diploma MBO Applicatie-ontwikkelaar:
 onzin om dan weer vooraf aan te beginnen! We willen je zo snel mogelijk met OOP aan de slag zetten.
 
 ### Week 1: VAST GEPLAND: Kick Off Whiteboardsessie
-- Kennismaking met je Software-docent ofwel S-docent.
-- Zie module 'S-basis - kick off sessie' onder module 'Materiaal voor Orientatie': neem uw Whiteborardstit en wandel...
-- Hoofdvraag: Wat zijn de basisconstructies van programmeren?
-- Kruisje Rondje-ish
+- Zie de module verderop in deze canvas course over de Eerste Softwaredag: neem uw Whiteboardstift en wandel...
+- Kennismaking en Computational Thinking.
 
 - Welk programma zou ik kunnen bouwen om mijn S-docent te overtuigen dat ik al kan programmeren? Beschrijf dit programma en praat er over met je S-docent (liefst deze dag al).
 
