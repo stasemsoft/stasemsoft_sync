@@ -18,9 +18,3 @@ We hebben een aantal opdrachten verzameld waarmee jouw 'computational thinking' 
 Maak een selectie welke je wil gaan doen. Praat er over met tafelgenoten, met je docent.
 Gebruik je whiteboardstift. Maak foto's van wat je geproduceerd hebt.
 Besteed hier maximaal je eerste S-dag aan.
-
-+ [Binary01](https://stasemsoft.github.io/softwarematerial/docs/computational/binary01.pdf)
-
-+ [Algo01](https://stasemsoft.github.io/softwarematerial/docs/computational/algo01.pdf)
-
-+ [ProjectEuler 79](https://projecteuler.net/problem=79)
