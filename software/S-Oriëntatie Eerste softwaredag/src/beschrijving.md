@@ -12,4 +12,15 @@ en een team werkt vaak het prettigste als er een goede mix van eigenschappen (va
 ICT is bovendien een enorm vakgebied, het is tegenwoordig niet mogelijk dat iemand alles weet en overal goed in is.
 
 
-## Welke vaardigheden heeft een succesvolle Software Engineer nodig? 
+## Welke vaardigheden heeft een succesvolle Software Engineer nodig?
+
+We hebben een aantal opdrachten verzameld waarmee jouw 'computational thinking' wordt uitgedaagd.
+Maak een selectie welke je wil gaan doen. Praat er over met tafelgenoten, met je docent.
+Gebruik je whiteboardstift. Maak foto's van wat je geproduceerd hebt.
+Besteed hier maximaal je eerste S-dag aan.
+
++ [Binary01](https://stasemsoft.github.io/softwarematerial/docs/computational/binary01.pdf)
+
++ [Algo01](https://stasemsoft.github.io/softwarematerial/docs/computational/algo01.pdf)
+
++ [ProjectEuler 79](https://projecteuler.net/problem=79)
