@@ -15,6 +15,10 @@ ICT is bovendien een enorm vakgebied, het is tegenwoordig niet mogelijk dat iema
 ## Welke vaardigheden heeft een succesvolle Software Engineer nodig?
 
 We hebben een aantal opdrachten verzameld waarmee jouw 'computational thinking' wordt uitgedaagd.
-Maak een selectie welke je wil gaan doen. Praat er over met tafelgenoten, met je docent.
+Maak een selectie welke je wil gaan doen. Praat er over met de mensen om je heen en/of met je docent.
 Gebruik je whiteboardstift. Maak foto's van wat je geproduceerd hebt.
 Besteed hier maximaal je eerste S-dag aan.
+
+## Bewijsmateriaal
+
+Bewaar alles wat je gemaakt hebt (bijna altijd een goed idee!), dus niet alleen wat lukt, maar zeker ook wat niet lukt! Enerzijds omdat je daar vaak net zo veel of soms meer van leert. Anderzijds om in de module 'Inleveren deelproducten voor oriëntatie in software' te leveren: je docent wil namelijk zien of je je tijd nuttig hebt besteed en jouw 'bewijsmateriaal' kan hier wellicht bij helpen.
