@@ -7,7 +7,7 @@ Opmerking over de hele canvas course: zie je 'hij' of 'zij', dan kan het allebei
 
 ## Aanwezigheid
 
-De beoordeling is gebaseerd op zichtbaar gedrag tijdens de lessen, dus aanwezig zijn is wel belangrijk? Als je er een keer niet bent, of pas later, of eerder weg moet, is het verstandig een berichtje naar je docent te sturen met de reden waarom.
+De beoordeling is gebaseerd op zichtbaar gedrag tijdens de lessen, dus aanwezig zijn is wel belangrijk. Als je er een keer niet bent, of pas later, of eerder weg moet, is het verstandig een berichtje naar je docent te sturen met de reden waarom.
 
 
 ## Geplande momenten voor alle studenten
