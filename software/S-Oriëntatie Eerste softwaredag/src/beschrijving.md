@@ -2,6 +2,8 @@
 
 De eerste lesdag is een gezamenlijke aftrap, waarbij je kennis maakt met de docent en je gezamenlijk kort de inhoud van de course bekijkt. De belangrijkste vragen kun je vast stellen. Verder ga je gewapend met een whiteboardstift een aantal uitdagingen tackelen.
 
+Een probleem oplossen gebeurt vaak niet in een laptop maar eerst op papier of whiteboard. Ontwerpen die je maakt zoals een flow chart of andere schema's moeten als foto van een whiteboard in geleverd worden (alternatief: foto van papier).
+Dus NIET met een digitaal tool gemaakt!
 
 
 ## Samen leren
