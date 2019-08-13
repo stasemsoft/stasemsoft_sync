@@ -36,6 +36,10 @@ zo weet je wat je docent belangrijk vindt en waar je mee verder kunt.
 
 Iedereen gaat in week 8 de Design Challenge in.
 
+Ná de eerste softwaredag (zie pagina over Eerste Softwaredag) ga je aan de slag om het oriënterende niveau te halen én je docent ervan te overtuigen dat je dat niveau hebt. Onder 'Deelproducten' kun je lezen wat je kunt inleveren en wordt ook verwezen naar opdrachten, onder 'Toolbox' kun je informatie vinden over de concepten van programmeren die je voor het oriënterende niveau onder de knie moet krijgen.
+
+Tip: praat regelmatig met je docent. 
+
 
 ## Verdiepend niveau
 
