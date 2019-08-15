@@ -2,7 +2,7 @@ Voor 'orientatie' op Software ga je werken aan een antwoord op een Vraag, de Hoo
 
 ### Hoofdvraag: Welke vaardigheden heeft een succesvolle Software Engineer nodig en hoe kan ik die vaardigheden bij mij zelf ontwikkelen?
 
-Later zul je leren hoe je dit soort venijnige vragen zelf kunt beantwoorden (vanaf semester 2) en zelfs hoe je een dergelijke vraag zelf formuleren (einde studie). Voor het startsemester heeft FHICT deze vraag voor jou bedacht en helpen we ook nog bij het beantwoorden.
+Later zul je leren hoe je dit soort venijnige vragen zelf kunt beantwoorden (vanaf semester 2) en zelfs hoe je een dergelijke vraag zelf kunt formuleren (einde studie). Voor het startsemester heeft FHICT deze vraag voor jou bedacht en helpen we ook nog bij het beantwoorden.
 
 De hoofdvraag roept meteen een aantal (deel)vragen op.  Misschien kom je zelf tot andere vragen (dat is goed, dan ben je zelf aan het nadenken!), maar hier een mogelijke lijst:
 
