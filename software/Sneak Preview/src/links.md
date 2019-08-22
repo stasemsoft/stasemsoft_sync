@@ -3,4 +3,4 @@
 ### Pointers
 
 + [Software Craftmanship Manifesto](http://manifesto.softwarecraftsmanship.org/)
-+ [https://stasemsoft.github.io/softwarelessons/](https://stasemsoft.github.io/softwarelessons/)
++ [Alvast een link naar het verdiepende materiaal](https://stasemsoft.github.io/softwarelessons/objects)
