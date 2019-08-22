@@ -1,3 +1,2 @@
-## Exercises
 
-+ [Exercises: Arrays](https://stasemsoft.github.io/softwarematerial/docs/basic/exercises_FUN12_Arrays.pdf)
++ [Toolbox Basis](https://stasemsoft.github.io/softwarematerial/docs/basic/)
