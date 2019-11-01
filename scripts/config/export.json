@@ -1,7 +1,7 @@
 {
 	"blokboekUrl" : "https://portal.fhict.nl/Blokboeken/Blokboek_S2_Technology.pdf",
 	"canvas": {
-		"enabled": true,
+		"enabled": false,
 		"courses": [
 		{
 			"path": "software",
@@ -12,7 +12,7 @@
 		"linkToGit": false
 	},
 	"sharePoint": {
-		"enabled": true,
+		"enabled": false,
 		"period": "1920vj",
 		"path": "Technology/semester2"
 	}
